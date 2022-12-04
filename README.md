@@ -1,7 +1,8 @@
 # Computer-Networks-I
-Computer Networks I ECE AUTh Course Project  [Network programming]
 
-In the source.pdf the required of __userApplication__ functions are:
+#### Computer Networks I ECE AUTh Course Project  [Network programming]
+
+In the __source.pdf__ the required of __userApplication__ functions are:
 
 - Estimating the response time (ping) of the server.
 - Implementing an ARQ (automatic repeat request) mechanism for error checking and reliable packet trasnfer.
